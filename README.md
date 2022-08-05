@@ -25,3 +25,6 @@ This empirical study provides an econometric analysis aimed at highlighting the 
 The _data_ folder contains the set of economic, financial and geopolitical time series that served in the construction of the early warning system each organized in a table tracking its evolution.
 
 ### Model Building and Estimation
+
+The 72 Markov regime-switching and logistic regression models in this study were built using, respectively, the ```MSGARCH``` and ```glm2``` packages. The estimation procedure was done via the Maximum Likelihood technique.
+
