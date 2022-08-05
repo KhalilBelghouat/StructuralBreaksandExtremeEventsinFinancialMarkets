@@ -22,4 +22,6 @@ This empirical study provides an econometric analysis aimed at highlighting the 
 
 ### About The Data
 
+The _data_ folder contains the set of economic, financial and geopolitical time series that served in the construction of the early warning system each organized in a table tracking its evolution.
+
 ### Model Building and Estimation
